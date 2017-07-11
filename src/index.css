@@ -1,0 +1,90 @@
+.navbar {
+  font-family: "Galada";
+  background-color: rgba(251, 254, 255, 0.7);
+  border-radius: 0;
+  border-bottom: solid 5px #94D8FD;
+}
+
+.navbar a {
+  color: #94D8FD !important;
+  text-shadow: 1.0px 1.0px #070803;
+
+}
+
+.header-top {
+    height: 250px;
+    background: url("https://images6.alphacoders.com/322/thumb-1920-322791.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+    margin-top: -90px;
+    margin-bottom: 100px;
+    opacity: 2px;
+  }
+
+.header-bottom h1 {
+    font-family: "Carter One";
+    text-align: center;
+    margin-top: -240px;
+    font-size: 6em;
+    color: white !important;
+    text-shadow: 4px 4px #070803;
+}
+
+.header-bottom h3 {
+    font-family: "Carter One";
+    text-align: center;
+    margin-top: 90px;
+    font-size: 24px;
+    color: #94D8FD !important;
+    text-shadow: 1px 1px #070803;
+}
+
+.site-circle {
+    height:250px;
+    width: 250px;
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+    background-size: cover;
+    backgroundPosition: center;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    border: solid #94D8FD 8px;
+}
+
+.site-circle h3 {
+  font-family: "Changa One", "sans-serif";
+    padding-top: 70px;
+    color: white;
+    text-shadow: 1.5px 1.5px #070803;
+    font-size: 45px;
+}
+
+
+footer {
+  margin-top: 50px;
+  border-top: solid 2px grey;
+  font-size: 14px;
+}
+
+.fa-stack-twitter {
+  color: white;
+}
+
+.footer-inner {
+  margin-top: 40px;
+  max-width: 240px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.fa-custom {
+  font-size: 26px;
+}
+
+.copyright-text {
+  color: grey;
+  margin-top: -2px;
+}
